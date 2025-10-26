@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     width: 60,
     height: 60,
     borderRadius: 8,
+    zIndex: 1,
   },
   info: {
     marginLeft: 10,
